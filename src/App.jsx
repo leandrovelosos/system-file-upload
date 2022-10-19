@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="title">Upload file</div>
+      <div className="title">LaMerda Upload</div>
       <FileUpload files={files} setFiles={setFiles}
         removeFile={removeFile} />
       <FileList files={files} removeFile={removeFile} />

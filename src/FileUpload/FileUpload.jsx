@@ -40,11 +40,11 @@ const FileUpload = ({ files, setFiles, removeFile }) => {
                         <i>
                             <FontAwesomeIcon icon={faPlus} />
                         </i>
-                        Upload
+                        Selecione o arquivo
                     </button>
                 </div>
 
-                <p className="main">Supported files</p>
+                <p className="main">Arquivos suportados</p>
                 <p className="info">PDF, JPG, PNG</p>
 
             </div>
